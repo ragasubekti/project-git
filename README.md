@@ -1,3 +1,3 @@
 # Project Git
 
-This is Git Project
+This is Git Project.
